@@ -1,2 +1,2 @@
 # GCN
-GCN
+GCN tutorials and trials.
